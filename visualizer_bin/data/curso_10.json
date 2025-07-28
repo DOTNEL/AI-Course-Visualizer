@@ -7,9 +7,9 @@
     "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
   },
   "image_gallery": [
-    "Images/curso_10/01.jpg",
-    "Images/curso_10/02.jpg",
-    "Images/curso_10/03.jpg"
+    "visualizer_bin/images/curso_10/01.jpg",
+    "visualizer_bin/images/curso_10/02.jpg",
+    "visualizer_bin/images/curso_10/03.jpg"
   ],
   "info": {
     "duration": "2 semanas",
