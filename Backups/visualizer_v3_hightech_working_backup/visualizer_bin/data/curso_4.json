@@ -1,0 +1,220 @@
+{
+  "title": "FLUJOS DE TRABAJO CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Flujos+de+Trabajo+con+IA",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_4/01.jpg",
+    "Images/curso_4/02.jpg",
+    "Images/curso_4/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Intermedio (con conocimientos previos de Prompt Engineering y automatización básica)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "Los procesos de ingeniería a menudo son lineales y contienen cuellos de botella que dependen de la intervención manual, lo que limita la eficiencia y la capacidad de escalar las operaciones.",
+    "solution": "Este curso enseña a los ingenieros a rediseñar sus procesos de trabajo, integrando la IA para crear flujos inteligentes, automatizar la toma de decisiones y optimizar la asignación de recursos, resultando en un aumento significativo de la productividad.",
+    "final_product": {
+      "title": "Flujo de Trabajo Inteligente para un Proceso de Ingeniería",
+      "features": [
+        "Un mapa del proceso actual y su optimización con IA.",
+        "Puntos de decisión y validación automatizados.",
+        "Un sistema de gestión de aprobaciones y notificaciones inteligentes.",
+        "Un plan para el monitoreo y la mejora continua del flujo de trabajo.",
+        "Está listo para ser propuesto e implementado en su organización."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "INGENIERÍA DE PROCESOS INTELIGENTE",
+    "phases": [
+      {
+        "name": "Fase 1: Diseño y Automatización de Flujos (Semana 1)",
+        "objective": "Mapear los procesos existentes, identificar oportunidades de mejora con IA y diseñar flujos de trabajo inteligentes."
+      },
+      {
+        "name": "Fase 2: Optimización y Monitoreo (Semana 2)",
+        "objective": "Optimizar la asignación de recursos, monitorear el rendimiento del flujo de trabajo y establecer un ciclo de mejora continua."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Mapeo de Procesos Actuales",
+        "herramientas": ["Lucidchart", "Miro", "ChatGPT"],
+        "entregable_practico": "Diagrama de flujo del proceso actual (As-Is)."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Diseño de Flujos Inteligentes",
+        "herramientas": ["Lucidchart", "ChatGPT"],
+        "entregable_practico": "Diagrama de flujo del proceso futuro (To-Be)."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Automatización de Revisiones",
+        "herramientas": ["Zapier", "ChatGPT"],
+        "entregable_practico": "Flujo de revisión de diseño automatizado."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Gestión de Aprobaciones",
+        "herramientas": ["Trello", "Asana", "Make"],
+        "entregable_practico": "Sistema de aprobación con notificaciones."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Optimización de Recursos",
+        "herramientas": ["Airtable", "Claude"],
+        "entregable_practico": "Simulación de asignación de tareas optimizada."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Monitoreo y Mejora Continua",
+        "herramientas": ["Looker Studio", "Grafana"],
+        "entregable_practico": "Dashboard de KPIs para el flujo de trabajo."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "DISEÑO Y AUTOMATIZACIÓN DE FLUJOS",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Mapeo de Procesos Actuales",
+          "objectives": [
+            "Identificar puntos de mejora y cuellos de botella con IA.",
+            "Analizar el uso de tiempo y recursos en los procesos actuales.",
+            "Priorizar las oportunidades de automatización por impacto."
+          ],
+          "deliverables": [
+            "Mapa de calor de ineficiencias en el proceso.",
+            "Matriz de priorización de automatizaciones."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Diseño de Flujos Inteligentes",
+          "objectives": [
+            "Crear workflows detallados paso a paso.",
+            "Incorporar puntos de decisión automática basados en IA.",
+            "Integrar validaciones de IA para asegurar la calidad."
+          ],
+          "deliverables": [
+            "Diagrama de flujo del nuevo proceso inteligente.",
+            "Documento de reglas para la toma de decisiones de IA."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Automatización de Revisiones",
+          "objectives": [
+            "Crear flujos para la revisión automática de diseños.",
+            "Validar automáticamente el cumplimiento de especificaciones.",
+            "Implementar un control de calidad asistido por IA."
+          ],
+          "deliverables": [
+            "Checklist de revisión de diseño automatizado.",
+            "Reporte de validación de especificaciones."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "OPTIMIZACIÓN Y MONITOREO",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Gestión de Aprobaciones",
+          "objectives": [
+            "Automatizar cadenas de aprobación de múltiples niveles.",
+            "Dar seguimiento en tiempo real al estatus de los proyectos.",
+            "Configurar alertas y notificaciones inteligentes."
+          ],
+          "deliverables": [
+            "Tablero Kanban con el flujo de aprobación.",
+            "Sistema de notificaciones por email o Slack."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Optimización de Recursos",
+          "objectives": [
+            "Asignar tareas automáticamente basadas en la carga de trabajo.",
+            "Balancear las cargas de trabajo del equipo de forma dinámica.",
+            "Predecir los tiempos de entrega de los proyectos."
+          ],
+          "deliverables": [
+            "Simulación de asignación de recursos para un proyecto.",
+            "Estimación de tiempos de entrega basada en IA."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Monitoreo y Mejora Continua",
+          "objectives": [
+            "Definir y calcular KPIs automatizados para los flujos.",
+            "Identificar cuellos de botella y áreas de mejora.",
+            "Realizar optimizaciones iterativas con asistencia de IA."
+          ],
+          "deliverables": [
+            "Dashboard con los KPIs del flujo de trabajo.",
+            "Plan de mejora continua para el siguiente ciclo."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "60%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "50%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "40%",
+      "criteria": [
+        { "name": "Calidad del Flujo de Trabajo Inteligente diseñado", "value": "30%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "Herramientas de BPM (Business Process Management) con IA",
+      "Zapier / Make",
+      "ChatGPT / Claude"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Experiencia en la gestión de procesos de ingeniería.",
+      "Conocimientos de Prompt Engineering y automatización."
+    ],
+    "recommended": [
+      "Jefes de proyecto, líderes de equipo y gerentes de ingeniería."
+    ],
+    "not_for": [
+      "Personas sin experiencia en la gestión de procesos."
+    ]
+  }
+}

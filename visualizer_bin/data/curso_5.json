@@ -1,0 +1,219 @@
+{
+  "title": "MARCA DIGITAL PERSONAL PARA INGENIEROS CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Marca+Digital+para+Ingenieros",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_5/01.jpg",
+    "Images/curso_5/02.jpg",
+    "Images/curso_5/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Básico-Intermedio (con conocimientos previos de Prompt Engineering)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "Muchos ingenieros altamente cualificados tienen una presencia digital débil o inexistente, lo que limita sus oportunidades de carrera, colaboración y liderazgo en la industria.",
+    "solution": "Este curso proporciona a los ingenieros las herramientas y estrategias para construir una marca personal técnica sólida y auténtica utilizando la IA para la creación de contenido, la optimización de perfiles y el networking inteligente.",
+    "final_product": {
+      "title": "Ecosistema de Marca Personal Digital",
+      "features": [
+        "Un perfil de LinkedIn optimizado con IA.",
+        "Un portafolio digital automatizado.",
+        "Un calendario de contenido técnico generado por IA.",
+        "Un sistema de networking inteligente para identificar y contactar a líderes de la industria.",
+        "Está listo para ser lanzado y gestionado de forma continua."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "INGENIERÍA DE LA INFLUENCIA TÉCNICA",
+    "phases": [
+      {
+        "name": "Fase 1: Creación de Contenido y Optimización de Perfiles (Semana 1)",
+        "objective": "Desarrollar una estrategia de marca personal y utilizar la IA para crear contenido técnico y optimizar los perfiles profesionales."
+      },
+      {
+        "name": "Fase 2: Networking y Crecimiento (Semana 2)",
+        "objective": "Implementar estrategias de networking inteligente y utilizar la analítica para medir el impacto y optimizar el crecimiento de la marca personal."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Estrategia de Marca Personal Técnica",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Documento de propuesta de valor única."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Creación de Contenido Técnico",
+        "herramientas": ["ChatGPT", "Medium", "LinkedIn"],
+        "entregable_practico": "Un artículo técnico de 500 palabras."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Optimización de Perfiles Profesionales",
+        "herramientas": ["LinkedIn", "ChatGPT"],
+        "entregable_practico": "Perfil de LinkedIn optimizado al 100%."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Networking Digital Inteligente",
+        "herramientas": ["LinkedIn Sales Navigator", "ChatGPT"],
+        "entregable_practico": "Plantillas de mensajes de networking."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Creación de Contenido Visual",
+        "herramientas": ["Canva", "DALL-E 3", "Midjourney"],
+        "entregable_practico": "Set de 3 infografías técnicas."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Medición y Optimización",
+        "herramientas": ["LinkedIn Analytics", "Google Analytics"],
+        "entregable_practico": "Reporte de análisis de impacto de contenido."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "ESTRATEGIA Y CREACIÓN DE CONTENIDO",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Estrategia de Marca Personal Técnica",
+          "objectives": [
+            "Definir una especialización y un nicho de mercado.",
+            "Identificar la audiencia objetivo y sus necesidades.",
+            "Crear una propuesta de valor única y un mensaje claro."
+          ],
+          "deliverables": [
+            "Documento de estrategia de marca personal.",
+            "Elevator pitch de 30 segundos."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Creación de Contenido Técnico",
+          "objectives": [
+            "Generar ideas para artículos técnicos con IA.",
+            "Simplificar conceptos complejos para una audiencia más amplia.",
+            "Crear un calendario de contenido automatizado."
+          ],
+          "deliverables": [
+            "Un artículo técnico generado con IA y editado.",
+            "Calendario de contenido para 1 mes."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Optimización de Perfiles Profesionales",
+          "objectives": [
+            "Optimizar el perfil de LinkedIn para SEO y atracción de reclutadores.",
+            "Crear portafolios digitales automáticos.",
+            "Generar CVs técnicos adaptativos para diferentes ofertas."
+          ],
+          "deliverables": [
+            "Perfil de LinkedIn con una puntuación de 'All-Star'.",
+            "Un portafolio digital básico en una plataforma No-Code."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "NETWORKING Y CRECIMIENTO",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Networking Digital Inteligente",
+          "objectives": [
+            "Identificar contactos relevantes y líderes de opinión.",
+            "Redactar mensajes de networking personalizados y efectivos.",
+            "Automatizar el seguimiento de relaciones profesionales."
+          ],
+          "deliverables": [
+            "Lista de 50 contactos clave a seguir.",
+            "5 plantillas de mensajes de contacto personalizables."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Creación de Contenido Visual",
+          "objectives": [
+            "Crear infografías técnicas atractivas con IA.",
+            "Generar presentaciones profesionales automáticas.",
+            "Producir videos explicativos cortos asistidos por IA."
+          ],
+          "deliverables": [
+            "Una infografía sobre un tema técnico.",
+            "Una presentación de 5 diapositivas sobre un proyecto."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Medición y Optimización",
+          "objectives": [
+            "Analizar el impacto y el alcance del contenido publicado.",
+            "Optimizar las publicaciones para mejorar el engagement.",
+            "Desarrollar estrategias de crecimiento sostenible a largo plazo."
+          ],
+          "deliverables": [
+            "Reporte de métricas de LinkedIn y Twitter.",
+            "Plan de optimización de contenido para el próximo mes."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "60%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "50%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "40%",
+      "criteria": [
+        { "name": "Calidad del Ecosistema de Marca Personal Digital", "value": "30%" },
+        { "name": "Presentación final de la estrategia de marca", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "ChatGPT / Claude",
+      "Herramientas de generación de imágenes con IA (e.g., Midjourney, DALL-E 3)"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Deseo de construir una marca personal profesional.",
+      "Conocimientos de Prompt Engineering."
+    ],
+    "recommended": [
+      "Ingenieros de todas las áreas que quieran aumentar su visibilidad y liderazgo."
+    ],
+    "not_for": [
+      "Personas que no están interesadas en tener una presencia digital profesional."
+    ]
+  }
+}

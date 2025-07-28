@@ -1,0 +1,219 @@
+{
+  "title": "GESTIÓN DE PROYECTOS DE INVESTIGACIÓN CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Gesti%C3%B3n+de+Proyectos+con+IA",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_1/01.jpg",
+    "Images/curso_1/02.jpg",
+    "Images/curso_1/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Básico-Intermedio (con conocimientos previos de Prompt Engineering)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "La gestión de proyectos de investigación es un proceso complejo y demandante que consume mucho tiempo en tareas repetitivas, desde la planificación inicial hasta la difusión de resultados, retrasando la generación de conocimiento.",
+    "solution": "Este curso enseña a utilizar herramientas de IA para automatizar y optimizar cada fase del ciclo de vida de un proyecto de investigación, transformando la forma en que los ingenieros abordan la investigación y liberando tiempo para el análisis crítico.",
+    "final_product": {
+      "title": "Sistema de Gestión de Investigación Asistido por IA",
+      "features": [
+        "Automatiza la planificación y generación de cronogramas.",
+        "Realiza revisiones bibliográficas y mapas conceptuales automáticos.",
+        "Genera borradores de artículos y presentaciones científicas.",
+        "Está listo para ser implementado en un proyecto de investigación real."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "INVESTIGACIÓN AUMENTADA",
+    "phases": [
+      {
+        "name": "Fase 1: Planificación Inteligente (Semana 1)",
+        "objective": "Definir y estructurar el proyecto de investigación utilizando IA para la planificación y revisión bibliográfica."
+      },
+      {
+        "name": "Fase 2: Ejecución y Difusión Acelerada (Semana 2)",
+        "objective": "Utilizar IA para el análisis de datos, la redacción académica y la creación de presentaciones de alto impacto."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Planificación de Investigación con IA",
+        "herramientas": ["ChatGPT", "Claude", "Miro"],
+        "entregable_practico": "Cronograma de investigación y definición de objetivos."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Revisión Bibliográfica Automatizada",
+        "herramientas": ["Semantic Scholar", "Connected Papers"],
+        "entregable_practico": "Mapa conceptual de la literatura relevante."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Análisis de Datos con IA (Básico)",
+        "herramientas": ["ChatGPT (Code Interpreter)", "Google Sheets"],
+        "entregable_practico": "Informe con gráficos y patrones preliminares."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Redacción Académica Asistida",
+        "herramientas": ["ChatGPT", "Grammarly", "Zotero"],
+        "entregable_practico": "Borrador de un abstract y conclusiones."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Presentaciones Científicas con IA",
+        "herramientas": ["Beautiful.ai", "Tome", "ChatGPT"],
+        "entregable_practico": "Presentación de slides generada automáticamente."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Gestión de Colaboraciones y Networking",
+        "herramientas": ["LinkedIn", "ChatGPT"],
+        "entregable_practico": "Propuesta de colaboración y lista de contactos."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "PLANIFICACIÓN Y ANÁLISIS",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Planificación de Investigación con IA",
+          "objectives": [
+            "Definir objetivos de investigación claros con asistencia de IA.",
+            "Generar cronogramas de trabajo detallados y realistas.",
+            "Identificar variables y metodologías de investigación pertinentes."
+          ],
+          "deliverables": [
+            "Documento de objetivos y alcance del proyecto.",
+            "Cronograma de investigación en formato Gantt."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Revisión Bibliográfica Automatizada",
+          "objectives": [
+            "Utilizar IA para encontrar y sintetizar artículos científicos clave.",
+            "Crear mapas conceptuales automáticos para entender el estado del arte.",
+            "Organizar referencias y bibliografía de forma eficiente."
+          ],
+          "deliverables": [
+            "Resumen de 10 artículos relevantes.",
+            "Mapa conceptual interactivo de la literatura."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Análisis de Datos con IA (Básico)",
+          "objectives": [
+            "Realizar una interpretación exploratoria de datasets con IA.",
+            "Generar gráficos y visualizaciones automáticas para identificar tendencias.",
+            "Detectar patrones y correlaciones preliminares en los datos."
+          ],
+          "deliverables": [
+            "Set de visualizaciones (gráficos de barras, dispersión, etc.).",
+            "Informe de una página con los hallazgos iniciales."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "REDACCIÓN Y DIFUSIÓN",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Redacción Académica Asistida",
+          "objectives": [
+            "Estructurar un paper científico de forma lógica con IA.",
+            "Mejorar la redacción de abstracts, introducciones y conclusiones.",
+            "Verificar la coherencia, gramática y estilo académico del texto."
+          ],
+          "deliverables": [
+            "Esqueleto completo de un artículo de investigación.",
+            "Abstract y conclusiones refinados con IA."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Presentaciones Científicas con IA",
+          "objectives": [
+            "Crear borradores de presentaciones de alto impacto desde contenido técnico.",
+            "Generar scripts y notas del orador para cada diapositiva.",
+            "Adaptar el contenido de la presentación para diferentes audiencias."
+          ],
+          "deliverables": [
+            "Una presentación de 10 diapositivas lista para ser expuesta.",
+            "Script completo de la presentación."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Gestión de Colaboraciones y Networking",
+          "objectives": [
+            "Identificar potenciales colaboradores o instituciones usando IA.",
+            "Automatizar el seguimiento de contactos académicos importantes.",
+            "Redactar propuestas de colaboración y emails de contacto efectivos."
+          ],
+          "deliverables": [
+            "Lista curada de 20 potenciales colaboradores.",
+            "Plantillas de email para networking académico."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "60%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "50%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "40%",
+      "criteria": [
+        { "name": "Calidad del Sistema de Gestión de Investigación", "value": "30%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "ChatGPT / Claude",
+      "Semantic Scholar",
+      "Connected Papers"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Conocimientos de Prompt Engineering.",
+      "Estar involucrado en proyectos de investigación o tener interés en ellos."
+    ],
+    "recommended": [
+      "Ingenieros electrónicos, investigadores y estudiantes de posgrado."
+    ],
+    "not_for": [
+      "Personas que buscan un curso de programación avanzada en IA."
+    ]
+  }
+}

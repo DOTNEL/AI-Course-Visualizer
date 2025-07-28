@@ -1,0 +1,220 @@
+{
+  "title": "ASISTENTES DIGITALES PARA INGENIERÍA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Asistentes+Digitales+para+Ingenier%C3%ADa",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_2/01.jpg",
+    "Images/curso_2/02.jpg",
+    "Images/curso_2/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Básico-Intermedio (con conocimientos previos de Prompt Engineering)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "Los ingenieros electrónicos dedican una cantidad significativa de tiempo a tareas repetitivas como cálculos, documentación y gestión de inventario, lo que reduce su productividad y enfoque en la innovación.",
+    "solution": "Este curso capacita a los ingenieros para crear y configurar asistentes de IA personalizados que automaticen tareas clave, actúen como tutores personalizados y optimicen los flujos de trabajo diarios.",
+    "final_product": {
+      "title": "Asistente de Ingeniería Personalizado",
+      "features": [
+        "Realiza cálculos eléctricos y de componentes.",
+        "Genera reportes técnicos y documentación estandarizada.",
+        "Gestiona el inventario de componentes y genera alertas.",
+        "Actúa como un tutor personalizado para el aprendizaje continuo.",
+        "Está listo para ser integrado en el flujo de trabajo diario del ingeniero."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "INGENIERÍA ASISTIDA POR IA",
+    "phases": [
+      {
+        "name": "Fase 1: Creación de Asistentes Especializados (Semana 1)",
+        "objective": "Desarrollar y configurar asistentes de IA para tareas específicas de ingeniería electrónica."
+      },
+      {
+        "name": "Fase 2: Integración y Optimización (Semana 2)",
+        "objective": "Conectar los diferentes asistentes, optimizar su rendimiento y asegurar su integración en el entorno de trabajo."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Fundamentos de Asistentes IA Especializados",
+        "herramientas": ["ChatGPT (GPTs)", "Claude Projects"],
+        "entregable_practico": "Documento de casos de uso para asistentes."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Configuración de Asistente para Cálculos",
+        "herramientas": ["ChatGPT (GPTs)", "Wolfram Alpha"],
+        "entregable_practico": "Un GPT que resuelve cálculos eléctricos básicos."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Asistente para Documentación Técnica",
+        "herramientas": ["ChatGPT (GPTs)", "Claude"],
+        "entregable_practico": "Un GPT que genera reportes técnicos estandarizados."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Asistente para Gestión de Inventario",
+        "herramientas": ["ChatGPT (GPTs)", "Zapier", "Google Sheets"],
+        "entregable_practico": "Un GPT que monitorea stock y genera alertas."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Asistente para Aprendizaje Continuo",
+        "herramientas": ["ChatGPT (GPTs)", "Perplexity"],
+        "entregable_practico": "Un tutor de IA con un plan de estudio personalizado."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Integración y Optimización",
+        "herramientas": ["ChatGPT (GPTs)", "Zapier"],
+        "entregable_practico": "Flujo de trabajo que conecta dos o más asistentes."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "CREACIÓN DE ASISTENTES ESPECIALIZADOS",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Fundamentos de Asistentes IA Especializados",
+          "objectives": [
+            "Comprender las diferencias entre asistentes generales y especializados.",
+            "Identificar casos de uso de alto valor en ingeniería electrónica.",
+            "Explorar las plataformas disponibles para crear asistentes."
+          ],
+          "deliverables": [
+            "Análisis comparativo de plataformas de asistentes.",
+            "Lista de 3 casos de uso para un asistente personal."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Configuración de Asistente para Cálculos",
+          "objectives": [
+            "Crear un asistente para resolver cálculos eléctricos comunes.",
+            "Definir prompts especializados para problemas de ingeniería.",
+            "Integrar normativas y fórmulas estándar en el asistente."
+          ],
+          "deliverables": [
+            "Un GPT funcional para cálculos de la Ley de Ohm.",
+            "Documento de prompts para 5 cálculos diferentes."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Asistente para Documentación Técnica",
+          "objectives": [
+            "Configurar un asistente para generar reportes técnicos.",
+            "Crear plantillas automáticas para documentación de proyectos.",
+            "Asegurar el mantenimiento de estándares de formato."
+          ],
+          "deliverables": [
+            "Un GPT que genera un reporte de laboratorio a partir de datos.",
+            "Plantilla de documentación en formato Markdown."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "GESTIÓN, APRENDIZAJE E INTEGRACIÓN",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Asistente para Gestión de Inventario",
+          "objectives": [
+            "Automatizar el seguimiento de componentes electrónicos.",
+            "Configurar alertas de bajo stock y sugerencias de reposición.",
+            "Realizar análisis de costos básicos de componentes."
+          ],
+          "deliverables": [
+            "Sistema de seguimiento de inventario en Google Sheets.",
+            "Un GPT que interactúa con la hoja de inventario."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Asistente para Aprendizaje Continuo",
+          "objectives": [
+            "Configurar un tutor de IA personalizado en un área de interés.",
+            "Establecer un sistema de seguimiento de progreso en nuevas tecnologías.",
+            "Generar planes de estudio personalizados y curados."
+          ],
+          "deliverables": [
+            "Un tutor de IA sobre un tema de nanochips.",
+            "Plan de estudio de 1 mes generado por IA."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Integración y Optimización",
+          "objectives": [
+            "Conectar diferentes asistentes para crear un flujo de trabajo cohesivo.",
+            "Implementar un ciclo de mejora continua basado en el uso.",
+            "Aprender a solucionar los problemas más comunes de los asistentes."
+          ],
+          "deliverables": [
+            "Un flujo de trabajo que conecta el asistente de cálculos y el de documentación.",
+            "Checklist de troubleshooting para GPTs."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "60%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "50%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "40%",
+      "criteria": [
+        { "name": "Calidad del Asistente de Ingeniería Personalizado", "value": "30%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "ChatGPT (versión Plus para creación de GPTs)",
+      "Claude"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Conocimientos de Prompt Engineering.",
+      "Experiencia o interés en la automatización de tareas de ingeniería."
+    ],
+    "recommended": [
+      "Ingenieros electrónicos, de telecomunicaciones y áreas afines."
+    ],
+    "not_for": [
+      "Personas sin acceso a ChatGPT Plus.",
+      "Quienes buscan un curso de desarrollo de software."
+    ]
+  }
+}

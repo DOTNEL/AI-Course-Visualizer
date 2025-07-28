@@ -1,0 +1,218 @@
+{
+  "title": "NO-CODE CON IA PARA INGENIEROS",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=No-Code+con+IA+para+Ingenieros",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_3/01.jpg",
+    "Images/curso_3/02.jpg",
+    "Images/curso_3/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Básico-Intermedio (con conocimientos previos de Prompt Engineering)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "Los ingenieros a menudo enfrentan la necesidad de automatizar procesos y crear herramientas internas, pero carecen del tiempo o las habilidades de programación para desarrollar soluciones desde cero.",
+    "solution": "Este curso introduce a los ingenieros en el mundo del No-Code con IA, permitiéndoles construir aplicaciones y automatizaciones potentes sin escribir una sola línea de código, conectando herramientas de IA con sus flujos de trabajo existentes.",
+    "final_product": {
+      "title": "Suite de Automatización No-Code para Ingeniería",
+      "features": [
+        "Un sistema de clasificación y respuesta automática de comunicaciones técnicas.",
+        "Un flujo de trabajo para la extracción de datos de hojas de especificaciones (datasheets).",
+        "Un dashboard de análisis de datos automático.",
+        "Está lista para ser implementada y escalada en un entorno profesional."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "INGENIERÍA ÁGIL SIN CÓDIGO",
+    "phases": [
+      {
+        "name": "Fase 1: Automatización de Procesos (Semana 1)",
+        "objective": "Aprender los fundamentos del No-Code y automatizar tareas de comunicación y procesamiento de documentos."
+      },
+      {
+        "name": "Fase 2: Integración y Análisis (Semana 2)",
+        "objective": "Conectar herramientas de IA con software de ingeniería y crear sistemas de análisis de datos automáticos."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Introducción al No-Code con IA",
+        "herramientas": ["Zapier", "Make", "ChatGPT"],
+        "entregable_practico": "Mapa de casos de uso para automatización."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Automatización de Comunicaciones",
+        "herramientas": ["Zapier", "Gmail", "Claude"],
+        "entregable_practico": "Flujo que clasifica y responde emails técnicos."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Procesamiento de Documentos",
+        "herramientas": ["Parseur", "DocuParser", "ChatGPT"],
+        "entregable_practico": "Sistema que extrae datos de 5 datasheets."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Integración con Herramientas de Ingeniería",
+        "herramientas": ["Webhooks", "APIs", "Make"],
+        "entregable_practico": "Alerta automática de un software CAD a Slack."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Análisis Automático de Datos",
+        "herramientas": ["Google Sheets", "Looker Studio", "ChatGPT"],
+        "entregable_practico": "Dashboard que se actualiza automáticamente."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Implementación y Mantenimiento",
+        "herramientas": ["Zapier", "Make"],
+        "entregable_practico": "Plan de monitoreo y escalabilidad de la solución."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "AUTOMATIZACIÓN DE PROCESOS",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Introducción al No-Code con IA",
+          "objectives": [
+            "Entender los conceptos básicos de la automatización No-Code.",
+            "Diferenciar entre No-Code, Low-Code y programación tradicional.",
+            "Identificar los principales casos de uso en ingeniería."
+          ],
+          "deliverables": [
+            "Glosario de términos de No-Code.",
+            "Documento con 3 procesos a automatizar."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Automatización de Comunicaciones",
+          "objectives": [
+            "Configurar respuestas automáticas a emails frecuentes.",
+            "Clasificar automáticamente emails técnicos por prioridad.",
+            "Generar reportes de estatus automáticos para el equipo."
+          ],
+          "deliverables": [
+            "Un 'Zap' que responde a emails con un template.",
+            "Filtro de Gmail que etiqueta emails por contenido."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Procesamiento de Documentos",
+          "objectives": [
+            "Extraer datos estructurados de hojas de especificaciones (datasheets).",
+            "Convertir automáticamente entre diferentes formatos de documentos.",
+            "Generar resúmenes técnicos de documentos largos."
+          ],
+          "deliverables": [
+            "Flujo que extrae los parámetros de un componente de un PDF.",
+            "Resumen automático de un paper técnico."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "INTEGRACIÓN Y ANÁLISIS",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Integración con Herramientas de Ingeniería",
+          "objectives": [
+            "Conectar la IA con software CAD a través de webhooks (básico).",
+            "Automatizar la creación de reportes a partir de datos de simulación.",
+            "Crear alertas automáticas para eventos clave en proyectos."
+          ],
+          "deliverables": [
+            "Una notificación en Slack cuando se guarda un archivo CAD.",
+            "Reporte en PDF generado desde una hoja de cálculo."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Análisis Automático de Datos",
+          "objectives": [
+            "Configurar dashboards que se actualizan en tiempo real.",
+            "Detectar anomalías básicas en series de datos de sensores.",
+            "Generar y enviar informes periódicos de forma automática."
+          ],
+          "deliverables": [
+            "Dashboard en Looker Studio conectado a Google Sheets.",
+            "Alerta por email cuando un valor excede un umbral."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Implementación y Mantenimiento",
+          "objectives": [
+            "Aprender a desplegar soluciones No-Code de forma segura.",
+            "Monitorear el uso y el rendimiento de las automatizaciones.",
+            "Entender cómo escalar las soluciones a medida que crece la necesidad."
+          ],
+          "deliverables": [
+            "Checklist de despliegue para soluciones No-Code.",
+            "Plan de mantenimiento para las automatizaciones creadas."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "60%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "50%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "40%",
+      "criteria": [
+        { "name": "Calidad de la Suite de Automatización No-Code", "value": "30%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "Zapier / Make (Integromat)",
+      "ChatGPT / Claude"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Conocimientos de Prompt Engineering.",
+      "Comprensión de los flujos de trabajo de ingeniería que se desean automatizar."
+    ],
+    "recommended": [
+      "Ingenieros de todas las disciplinas que buscan optimizar sus procesos."
+    ],
+    "not_for": [
+      "Desarrolladores de software experimentados que prefieren codificar."
+    ]
+  }
+}

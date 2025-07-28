@@ -1,0 +1,219 @@
+{
+  "title": "CUMPLIMIENTO NORMATIVO Y ESTÁNDARES CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Cumplimiento+Normativo+con+IA",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_10/01.jpg",
+    "Images/curso_10/02.jpg",
+    "Images/curso_10/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Intermedio-Avanzado (con experiencia en normativas y estándares)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "El cumplimiento de normativas y estándares en ingeniería es un proceso complejo, manual y propenso a errores que consume una gran cantidad de recursos y expone a las organizaciones a riesgos significativos de incumplimiento.",
+    "solution": "Este curso enseña a los ingenieros a automatizar el proceso de cumplimiento normativo utilizando la IA para mapear normativas, verificar el cumplimiento de las especificaciones, generar la documentación regulatoria y gestionar las certificaciones de forma proactiva.",
+    "final_product": {
+      "title": "Sistema de Gestión de Compliance Automatizado",
+      "features": [
+        "Mapea las normativas aplicables a un producto específico.",
+        "Genera checklists de compliance y verifica el cumplimiento de forma automática.",
+        "Prepara borradores de la documentación técnica para certificaciones.",
+        "Monitorea las actualizaciones normativas y gestiona las renovaciones.",
+        "Está listo para ser implementado como un sistema de apoyo al área de calidad o regulatoria."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "COMPLIANCE INTELIGENTE",
+    "phases": [
+      {
+        "name": "Fase 1: Mapeo y Análisis Automatizado (Semana 1)",
+        "objective": "Utilizar la IA para identificar las normativas aplicables y analizar el cumplimiento de los productos de forma automática."
+      },
+      {
+        "name": "Fase 2: Documentación y Gestión Proactiva (Semana 2)",
+        "objective": "Automatizar la preparación de la documentación regulatoria y gestionar el ciclo de vida de las certificaciones con IA."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Mapeo Automático de Normativas",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Mapa de normativas aplicables a un producto."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Análisis de Compliance Automatizado",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Checklist de compliance generado automáticamente."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Preparación de Documentación Regulatoria",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Borrador de reporte técnico para certificación."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Gestión de Certificaciones",
+        "herramientas": ["Airtable", "Zapier", "ChatGPT"],
+        "entregable_practico": "Plan de gestión de certificaciones con alertas."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Análisis de Riesgos Normativos",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Evaluación de riesgos de compliance."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Comunicación con Entes Regulatorios",
+        "herramientas": ["ChatGPT"],
+        "entregable_practico": "Borrador de comunicación oficial a un ente regulatorio."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "MAPEO Y ANÁLISIS AUTOMATIZADO",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Mapeo Automático de Normativas",
+          "objectives": [
+            "Identificar las normativas aplicables a un producto por mercado.",
+            "Realizar un seguimiento automático de las actualizaciones normativas.",
+            "Comparar los requisitos entre diferentes estándares internacionales."
+          ],
+          "deliverables": [
+            "Un mapa de normativas aplicables a un producto.",
+            "Sistema de alerta de actualizaciones normativas."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Análisis de Compliance Automatizado",
+          "objectives": [
+            "Verificar automáticamente el cumplimiento de las especificaciones.",
+            "Identificar los gaps normativos en un producto.",
+            "Generar checklists de compliance personalizados."
+          ],
+          "deliverables": [
+            "Un checklist de compliance generado automáticamente.",
+            "Informe de gaps normativos."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Preparación de Documentación Regulatoria",
+          "objectives": [
+            "Automatizar la redacción de reportes técnicos para certificación.",
+            "Generar planes de prueba según las normativas aplicables.",
+            "Compilar automáticamente las evidencias de compliance."
+          ],
+          "deliverables": [
+            "Un borrador de reporte técnico para certificación.",
+            "Plan de pruebas generado por IA."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "GESTIÓN PROACTIVA Y COMUNICACIÓN",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Gestión de Certificaciones",
+          "objectives": [
+            "Realizar un seguimiento automático de la vigencia de los certificados.",
+            "Configurar alertas de renovación y actualizaciones.",
+            "Comparar los requisitos entre diferentes entidades certificadoras."
+          ],
+          "deliverables": [
+            "Un plan de gestión de certificaciones con alertas.",
+            "Tabla comparativa de requisitos de certificadoras."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Análisis de Riesgos Normativos",
+          "objectives": [
+            "Evaluar automáticamente los riesgos de compliance.",
+            "Predecir los cambios normativos relevantes para la industria.",
+            "Analizar el impacto de las nuevas regulaciones en los productos existentes."
+          ],
+          "deliverables": [
+            "Una evaluación de riesgos de compliance.",
+            "Reporte de impacto de nuevas regulaciones."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Comunicación con Entes Regulatorios",
+          "objectives": [
+            "Preparar automáticamente borradores de comunicaciones oficiales.",
+            "Asistir en la respuesta a las observaciones regulatorias.",
+            "Mantener un registro de la correspondencia normativa."
+          ],
+          "deliverables": [
+            "Un borrador de comunicación oficial a un ente regulatorio.",
+            "Borrador de respuesta a una observación regulatoria."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "40%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Calidad del Sistema de Gestión de Compliance", "value": "40%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "Plataformas de IA para análisis de documentos legales y técnicos.",
+      "ChatGPT / Claude para análisis y generación de reportes."
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Experiencia en áreas de calidad, regulatoria o cumplimiento normativo.",
+      "Conocimiento de los estándares relevantes para su industria."
+    ],
+    "recommended": [
+      "Ingenieros de calidad, asuntos regulatorios y gerentes de producto."
+    ],
+    "not_for": [
+      "Personas sin experiencia o interés en el cumplimiento normativo."
+    ]
+  }
+}

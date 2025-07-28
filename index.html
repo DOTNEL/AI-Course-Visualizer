@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizador de Cursos de IA</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="visualizer_bin/css/style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <a href="#" id="home-link"><img src="visualizer_bin/images/logo.svg" alt="Logo" class="logo"></a>
+            <h3><i class="fas fa-robot"></i> Cursos de IA</h3>
+        </div>
+        <ul id="course-list">
+            <li><a href="#" id="about-us-link"><i class="fas fa-info-circle"></i> Sobre Nosotros</a></li>
+            <li class="search-container">
+                <input type="text" id="course-search" placeholder="Buscar cursos...">
+            </li>
+            <!-- Los cursos se cargarán aquí dinámicamente -->
+        </ul>
+    </div>
+    <div class="content" id="course-content">
+        <div class="welcome-screen">
+            <img src="visualizer_bin/images/logo.svg" alt="Logo" class="welcome-logo" id="welcome-logo">
+            <h1>¿Qué quieres aprender hoy?</h1>
+            <div class="main-search-container">
+                <input type="text" id="main-course-search" placeholder="Buscar cursos, temas, herramientas...">
+                <button id="main-search-button"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <script src="visualizer_bin/js/script.js"></script>
+</body>
+</html>

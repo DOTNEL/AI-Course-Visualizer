@@ -1,0 +1,219 @@
+{
+  "title": "SIMULACIONES Y MODELADO ELECTRÓNICO CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Simulaciones+y+Modelado+con+IA",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_8/01.jpg",
+    "Images/curso_8/02.jpg",
+    "Images/curso_8/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Intermedio-Avanzado (con conocimientos de simulación de circuitos)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "El diseño y la simulación de circuitos electrónicos es un proceso iterativo y lento que requiere una gran experiencia para optimizar parámetros y predecir el comportamiento de los componentes, retrasando el ciclo de desarrollo.",
+    "solution": "Este curso acelera drásticamente el proceso de diseño y validación de circuitos mediante el uso de IA para generar esquemáticos, optimizar simulaciones, predecir el comportamiento de los circuitos y detectar problemas de diseño de forma proactiva.",
+    "final_product": {
+      "title": "Asistente de Diseño Electrónico con IA",
+      "features": [
+        "Genera esquemáticos básicos y sugiere componentes.",
+        "Optimiza los parámetros de simulación para acelerar los análisis.",
+        "Predice el comportamiento térmico y de frecuencia del diseño.",
+        "Genera reportes de simulación y comparativas de diseño automáticamente.",
+        "Está listo para ser usado como una herramienta de apoyo en el diseño de circuitos."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "DISEÑO ACELERADO POR IA",
+    "phases": [
+      {
+        "name": "Fase 1: Diseño y Optimización de Simulaciones (Semana 1)",
+        "objective": "Utilizar la IA para generar diseños de circuitos básicos y optimizar los parámetros de simulación."
+      },
+      {
+        "name": "Fase 2: Análisis Predictivo y Generación de Reportes (Semana 2)",
+        "objective": "Aplicar la IA para predecir el comportamiento del circuito, detectar fallas y automatizar la documentación."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "IA para Diseño de Circuitos Básicos",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Esquemático simple generado con IA."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Optimización de Parámetros de Simulación",
+        "herramientas": ["ChatGPT", "SPICE"],
+        "entregable_practico": "Plan de simulación con parámetros optimizados."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Análisis Predictivo de Comportamiento",
+        "herramientas": ["ChatGPT", "Python"],
+        "entregable_practico": "Informe de análisis predictivo de comportamiento."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Detección de Problemas de Diseño",
+        "herramientas": ["ChatGPT"],
+        "entregable_practico": "Lista de posibles fallas y sugerencias de mejora."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Generación de Reportes de Simulación",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Reporte de simulación generado automáticamente."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Integración con Herramientas CAD",
+        "herramientas": ["APIs", "Webhooks"],
+        "entregable_practico": "Flujo de trabajo CAD-IA automatizado."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "DISEÑO Y OPTIMIZACIÓN",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "IA para Diseño de Circuitos Básicos",
+          "objectives": [
+            "Generar automáticamente esquemáticos simples.",
+            "Recibir sugerencias de componentes basadas en especificaciones.",
+            "Realizar una validación inicial de diseños con IA."
+          ],
+          "deliverables": [
+            "Un diseño de circuito básico generado con asistencia de IA.",
+            "Lista de componentes sugeridos."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Optimización de Parámetros de Simulación",
+          "objectives": [
+            "Utilizar IA para la selección automática de modelos SPICE.",
+            "Optimizar los tiempos de simulación.",
+            "Identificar los parámetros críticos para el análisis."
+          ],
+          "deliverables": [
+            "Un plan de simulación con parámetros optimizados.",
+            "Análisis de sensibilidad de parámetros."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Análisis Predictivo de Comportamiento",
+          "objectives": [
+            "Predecir la respuesta en frecuencia con IA.",
+            "Realizar un análisis térmico automatizado.",
+            "Estimar la vida útil de los componentes."
+          ],
+          "deliverables": [
+            "Un informe de análisis predictivo del comportamiento.",
+            "Gráficos de respuesta en frecuencia y análisis térmico."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "DETECCIÓN Y DOCUMENTACIÓN",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Detección de Problemas de Diseño",
+          "objectives": [
+            "Identificar automáticamente posibles fallas en el diseño.",
+            "Realizar un análisis básico de interferencias electromagnéticas.",
+            "Recibir sugerencias de mejoras de diseño."
+          ],
+          "deliverables": [
+            "Lista de posibles fallas y sugerencias de mejora.",
+            "Informe de análisis de interferencias."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Generación de Reportes de Simulación",
+          "objectives": [
+            "Automatizar la documentación de los resultados de la simulación.",
+            "Generar gráficos y visualizaciones automáticas.",
+            "Realizar una comparación inteligente entre versiones de diseño."
+          ],
+          "deliverables": [
+            "Un reporte de simulación generado automáticamente.",
+            "Comparativa de dos versiones de diseño."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Integración con Herramientas CAD",
+          "objectives": [
+            "Establecer una conexión básica con software de simulación popular.",
+            "Automatizar los flujos de trabajo entre CAD y la IA.",
+            "Exportar los resultados de forma inteligente."
+          ],
+          "deliverables": [
+            "Un flujo de trabajo CAD-IA automatizado.",
+            "Resultados de la simulación exportados en formato CSV."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "40%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Calidad del Asistente de Diseño Electrónico", "value": "40%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "IA generativa para diseño de hardware (e.g., análogos a ChatGPT para código)",
+      "Integraciones de IA con herramientas CAD (e.g., a través de APIs)"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Experiencia en el uso de software de simulación de circuitos (e.g., SPICE, Multisim).",
+      "Conocimientos de diseño electrónico."
+    ],
+    "recommended": [
+      "Ingenieros de diseño de hardware, PCB y de aplicaciones."
+    ],
+    "not_for": [
+      "Personas sin experiencia en diseño y simulación de circuitos."
+    ]
+  }
+}

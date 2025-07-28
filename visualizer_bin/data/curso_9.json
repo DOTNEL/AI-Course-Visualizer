@@ -1,0 +1,218 @@
+{
+  "title": "COMUNICACIÓN TÉCNICA MULTIIDIOMA CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Comunicaci%C3%B3n+T%C3%A9cnica+Multiidioma+con+IA",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_9/01.jpg",
+    "Images/curso_9/02.jpg",
+    "Images/curso_9/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Básico-Intermedio (con necesidad de comunicación internacional)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "La colaboración en proyectos de ingeniería a nivel global se ve obstaculizada por las barreras del idioma y las diferencias culturales, lo que genera malentendidos, retrasa proyectos y limita la expansión a nuevos mercados.",
+    "solution": "Este curso dota a los ingenieros de las capacidades para globalizar su comunicación técnica, utilizando la IA para realizar traducciones especializadas, localizar documentación y adaptar las comunicaciones a diferentes contextos culturales, de forma rápida y precisa.",
+    "final_product": {
+      "title": "Kit de Globalización de Comunicación Técnica",
+      "features": [
+        "Contiene un glosario terminológico multilingüe para su especialidad.",
+        "Incluye plantillas para la generación de manuales y presentaciones multiidioma.",
+        "Ofrece un sistema para la comunicación efectiva con proveedores y equipos internacionales.",
+        "Está listo para ser utilizado en proyectos de colaboración internacional."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "INGENIERÍA SIN FRONTERAS",
+    "phases": [
+      {
+        "name": "Fase 1: Localización de Contenido Técnico (Semana 1)",
+        "objective": "Utilizar la IA para traducir y adaptar documentación técnica, manteniendo la precisión y la coherencia terminológica."
+      },
+      {
+        "name": "Fase 2: Comunicación y Colaboración Global (Semana 2)",
+        "objective": "Aplicar la IA para facilitar la comunicación con equipos y proveedores internacionales y gestionar la colaboración multicultural."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Traducción Técnica Especializada",
+        "herramientas": ["DeepL", "Google Translate API", "ChatGPT"],
+        "entregable_practico": "Glosario terminológico multilingüe."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Creación de Manuales Multilingües",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Manual técnico de 1 página en dos idiomas."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Presentaciones Técnicas Globales",
+        "herramientas": ["Beautiful.ai", "Tome", "ChatGPT"],
+        "entregable_practico": "Presentación adaptada a una audiencia internacional."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Comunicación con Proveedores Internacionales",
+        "herramientas": ["ChatGPT"],
+        "entregable_practico": "Plantillas de email para RFQs en múltiples idiomas."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Documentación de Patentes Global",
+        "herramientas": ["ChatGPT", "Google Patents"],
+        "entregable_practico": "Borrador de un claim técnico en dos idiomas."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Colaboración Internacional",
+        "herramientas": ["Slack", "Microsoft Teams", "ChatGPT"],
+        "entregable_practico": "Protocolo de comunicación para equipos multiculturales."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "LOCALIZACIÓN DE CONTENIDO TÉCNICO",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Traducción Técnica Especializada",
+          "objectives": [
+            "Utilizar IA para la traducción de documentación técnica.",
+            "Mantener la consistencia de la terminología específica.",
+            "Adaptar culturalmente el contenido técnico."
+          ],
+          "deliverables": [
+            "Un documento técnico traducido a un segundo idioma.",
+            "Glosario terminológico multilingüe."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Creación de Manuales Multilingües",
+          "objectives": [
+            "Generar automáticamente manuales en varios idiomas.",
+            "Asegurar la consistencia técnica entre las diferentes versiones.",
+            "Localizar las normativas y estándares mencionados."
+          ],
+          "deliverables": [
+            "Una plantilla para la generación de manuales multilingües.",
+            "Manual técnico de 1 página en dos idiomas."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Presentaciones Técnicas Globales",
+          "objectives": [
+            "Adaptar automáticamente las diapositivas para diferentes audiencias.",
+            "Generar scripts multiidioma para las presentaciones.",
+            "Tener en cuenta las consideraciones culturales en las presentaciones."
+          ],
+          "deliverables": [
+            "Una presentación técnica adaptada para una audiencia internacional.",
+            "Script de la presentación en dos idiomas."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "COMUNICACIÓN Y COLABORACIÓN GLOBAL",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Comunicación con Proveedores Internacionales",
+          "objectives": [
+            "Crear plantillas automáticas para RFQs en múltiples idiomas.",
+            "Asistir en la negociación técnica con IA.",
+            "Clarificar automáticamente las especificaciones técnicas."
+          ],
+          "deliverables": [
+            "Plantillas de email para RFQs en múltiples idiomas.",
+            "Simulación de una negociación técnica con IA."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Documentación de Patentes Global",
+          "objectives": [
+            "Preparar documentos de patentes multiidioma.",
+            "Realizar búsquedas de prior art a nivel internacional.",
+            "Traducir de forma especializada los claims técnicos."
+          ],
+          "deliverables": [
+            "Borrador de un claim técnico en dos idiomas.",
+            "Reporte de búsqueda de prior art."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Colaboración Internacional",
+          "objectives": [
+            "Utilizar herramientas para equipos técnicos multiculturales.",
+            "Sincronizar la documentación a nivel global.",
+            "Establecer protocolos de comunicación técnica internacional."
+          ],
+          "deliverables": [
+            "Protocolo de comunicación para equipos multiculturales.",
+            "Plan de sincronización de documentación."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "40%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Calidad del Kit de Globalización de Comunicación", "value": "40%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "Herramientas de traducción con IA (e.g., DeepL, Google Translate for technical docs)",
+      "ChatGPT / Claude para adaptación y localización."
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Necesidad de comunicarse con equipos o clientes internacionales.",
+      "Conocimientos de Prompt Engineering."
+    ],
+    "recommended": [
+      "Ingenieros que trabajan en empresas multinacionales o con clientes globales."
+    ],
+    "not_for": [
+      "Personas cuya actividad profesional es exclusivamente local."
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "title": "OPTIMIZACIÓN DE PROCESOS DE FABRICACIÓN CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Optimizaci%C3%B3n+de+Procesos+de+Fabricaci%C3%B3n",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_7/01.jpg",
+    "Images/curso_7/02.jpg",
+    "Images/curso_7/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Intermedio (con conocimientos de procesos de manufactura)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "Los procesos de fabricación electrónica enfrentan desafíos constantes en control de calidad, eficiencia de la producción y gestión de la cadena de suministro, lo que impacta directamente en los costos y la competitividad.",
+    "solution": "Este curso aplica la IA para abordar los problemas clave de la manufactura electrónica, desde el mantenimiento predictivo y el control de calidad visual hasta la optimización de inventarios y la eficiencia energética.",
+    "final_product": {
+      "title": "Dashboard de Control de Producción Inteligente",
+      "features": [
+        "Predice fallas en equipos de producción y optimiza el mantenimiento.",
+        "Simula un sistema de inspección visual para la detección de defectos.",
+        "Genera pronósticos de demanda para la gestión de inventarios.",
+        "Está listo para ser presentado como una propuesta de mejora de procesos."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "FÁBRICA INTELIGENTE",
+    "phases": [
+      {
+        "name": "Fase 1: Producción y Calidad Predictiva (Semana 1)",
+        "objective": "Utilizar la IA para el análisis predictivo en la producción y la automatización del control de calidad."
+      },
+      {
+        "name": "Fase 2: Optimización y Gestión Inteligente (Semana 2)",
+        "objective": "Aplicar la IA para optimizar inventarios, consumo energético y la generación de reportes de producción."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Análisis Predictivo en Producción",
+        "herramientas": ["DataRobot", "H2O.ai", "ChatGPT"],
+        "entregable_practico": "Modelo conceptual de mantenimiento predictivo."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Control de Calidad Automatizado",
+        "herramientas": ["Roboflow", "YOLOv8", "ChatGPT"],
+        "entregable_practico": "Prototipo de sistema de control de calidad visual."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Optimización de Inventarios",
+        "herramientas": ["Google Sheets", "Airtable", "Claude"],
+        "entregable_practico": "Modelo de predicción de demanda."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Eficiencia Energética con IA",
+        "herramientas": ["Grafana", "ChatGPT"],
+        "entregable_practico": "Análisis de sostenibilidad y propuesta de optimización."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Automatización de Reportes de Producción",
+        "herramientas": ["Looker Studio", "ChatGPT"],
+        "entregable_practico": "Dashboard inteligente de KPIs de manufactura."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Integración con Sistemas ERP",
+        "herramientas": ["Zapier", "Make", "APIs"],
+        "entregable_practico": "Flujo de trabajo que conecta la producción con un ERP."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "PRODUCCIÓN Y CALIDAD PREDICTIVA",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Análisis Predictivo en Producción",
+          "objectives": [
+            "Predecir fallas en equipos de producción con IA.",
+            "Analizar patrones de producción para optimizar el rendimiento.",
+            "Optimizar los calendarios de mantenimiento preventivo."
+          ],
+          "deliverables": [
+            "Un modelo conceptual de mantenimiento predictivo.",
+            "Análisis de patrones de producción de un dataset."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Control de Calidad Automatizado",
+          "objectives": [
+            "Realizar inspección visual automática con IA.",
+            "Detectar defectos en componentes electrónicos en tiempo real.",
+            "Clasificar automáticamente los productos según su calidad."
+          ],
+          "deliverables": [
+            "Un prototipo de sistema de control de calidad visual.",
+            "Modelo de clasificación de productos."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Optimización de Inventarios",
+          "objectives": [
+            "Predecir la demanda de productos con IA.",
+            "Gestionar automáticamente el stock de componentes.",
+            "Optimizar la cadena de suministro con análisis predictivo."
+          ],
+          "deliverables": [
+            "Un modelo de predicción de demanda.",
+            "Sistema de gestión de stock en Google Sheets."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "EFICIENCIA Y GESTIÓN INTELIGENTE",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Eficiencia Energética con IA",
+          "objectives": [
+            "Monitorear de forma inteligente el consumo energético.",
+            "Optimizar los procesos para reducir los costos energéticos.",
+            "Realizar un análisis de sostenibilidad automatizado."
+          ],
+          "deliverables": [
+            "Dashboard de consumo energético.",
+            "Propuesta de optimización de procesos."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Automatización de Reportes de Producción",
+          "objectives": [
+            "Generar automáticamente los KPIs de manufactura.",
+            "Crear dashboards inteligentes en tiempo real.",
+            "Configurar alertas predictivas de problemas en la producción."
+          ],
+          "deliverables": [
+            "Dashboard inteligente de KPIs de manufactura.",
+            "Sistema de alertas por email."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Integración con Sistemas ERP",
+          "objectives": [
+            "Conectar la IA con los sistemas empresariales (ERP).",
+            "Automatizar los flujos administrativos relacionados con la producción.",
+            "Optimizar la asignación de recursos humanos y materiales."
+          ],
+          "deliverables": [
+            "Un flujo de trabajo que conecta la producción con un ERP.",
+            "Propuesta de optimización de recursos."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "40%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Calidad del Dashboard de Control de Producción", "value": "40%" },
+        { "name": "Presentación final del proyecto", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "Plataformas de análisis de datos con IA (e.g., DataRobot, H2O.ai)",
+      "ChatGPT / Claude para análisis y reportes."
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Conocimiento de los procesos de fabricación electrónica.",
+      "Nociones básicas de análisis de datos."
+    ],
+    "recommended": [
+      "Ingenieros de procesos, producción, y calidad."
+    ],
+    "not_for": [
+      "Personas sin experiencia en entornos de manufactura."
+    ]
+  }
+}

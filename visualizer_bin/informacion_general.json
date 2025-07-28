@@ -1,0 +1,33 @@
+{
+  "quienes_somos": {
+    "titulo": "Sobre Nosotros",
+    "descripcion": "Somos una organización dedicada a la formación de profesionales en el campo de la inteligencia artificial, con un enfoque práctico y aplicado a la industria. Nuestra misión es cerrar la brecha entre el conocimiento teórico y las habilidades prácticas que demanda el mercado actual."
+  },
+  "ponentes": [
+    {
+      "nombre": "Dr. Alan Turing",
+      "bio": "Pionero en el campo de la inteligencia artificial y la computación. Su trabajo sentó las bases para la informática moderna y la IA. Apasionado por la enseñanza y la divulgación del conocimiento.",
+      "foto_url": "https://placehold.co/150x150/333/FFFFFF?text=AT"
+    },
+    {
+      "nombre": "Dra. Ada Lovelace",
+      "bio": "Considerada la primera programadora de la historia, su trabajo en la máquina analítica de Charles Babbage sentó las bases de la programación. Experta en la aplicación de la computación a problemas complejos.",
+      "foto_url": "https://placehold.co/150x150/333/FFFFFF?text=AL"
+    }
+  ],
+  "contacto": {
+    "titulo": "Contacto",
+    "email": "info@iacursos.com",
+    "telefono": "+1 (555) 123-4567",
+    "redes_sociales": [
+      {
+        "nombre": "LinkedIn",
+        "url": "https://www.linkedin.com/school/ia-cursos/"
+      },
+      {
+        "nombre": "Twitter",
+        "url": "https://twitter.com/iacursos"
+      }
+    ]
+  }
+}

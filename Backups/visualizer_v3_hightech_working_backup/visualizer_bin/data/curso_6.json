@@ -1,0 +1,218 @@
+{
+  "title": "CURADURÍA DE DOCUMENTACIÓN TÉCNICA CON IA",
+  "image_url": "https://placehold.co/800x400/007BFF/FFFFFF?text=Curadur%C3%ADa+de+Documentaci%C3%B3n+con+IA",
+  
+  "video": {
+    "has_video": true,
+    "youtube_url": "https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  },
+  "image_gallery": [
+    "Images/curso_6/01.jpg",
+    "Images/curso_6/02.jpg",
+    "Images/curso_6/03.jpg"
+  ],
+  "info": {
+    "duration": "2 semanas",
+    "days_per_week": "3 (Lunes, Miércoles, Viernes)",
+    "hours_per_session": "1.5 horas",
+    "modality": "Taller práctico con enfoque hands-on",
+    "level": "Intermedio (con conocimientos de gestión documental)",
+    "delivery": "Virtual"
+  },
+  "value_proposition": {
+    "problem": "Las organizaciones y los profesionales acumulan grandes volúmenes de documentación técnica (tesinas, informes, manuales) que son difíciles de gestionar, consultar y reutilizar, convirtiendo el conocimiento en un activo inaccesible.",
+    "solution": "Este curso enseña a utilizar la IA para crear sistemas inteligentes de curaduría documental que clasifican, analizan, y facilitan el acceso al conocimiento técnico, transformando la documentación estática en una base de conocimiento dinámica y consultable.",
+    "final_product": {
+      "title": "Sistema Inteligente de Gestión Documental",
+      "features": [
+        "Clasifica y etiqueta automáticamente documentos técnicos.",
+        "Extrae información clave y genera resúmenes ejecutivos.",
+        "Permite la consulta de la base de conocimiento a través de un chatbot especializado.",
+        "Está listo para organizar y dar acceso a una biblioteca digital técnica."
+      ]
+    }
+  },
+  "methodology": {
+    "name": "CONOCIMIENTO LÍQUIDO",
+    "phases": [
+      {
+        "name": "Fase 1: Organización y Extracción Inteligente (Semana 1)",
+        "objective": "Estructurar la base documental y extraer automáticamente la información más relevante utilizando IA."
+      },
+      {
+        "name": "Fase 2: Validación y Acceso Inteligente (Semana 2)",
+        "objective": "Asegurar la calidad de la información y desplegar sistemas de consulta y distribución inteligentes."
+      }
+    ]
+  },
+  "malla_curricular": [
+    {
+        "sesion": "1",
+        "dia": "Lunes (Semana 1)",
+        "tema_principal": "Organización Inteligente de Documentación",
+        "herramientas": ["ChatGPT", "TagUI"],
+        "entregable_practico": "Sistema de clasificación y etiquetado automático."
+    },
+    {
+        "sesion": "2",
+        "dia": "Miércoles (Semana 1)",
+        "tema_principal": "Análisis y Extracción de Información Clave",
+        "herramientas": ["Claude", "ChatGPT"],
+        "entregable_practico": "Resúmenes ejecutivos de 3 documentos técnicos."
+    },
+    {
+        "sesion": "3",
+        "dia": "Viernes (Semana 1)",
+        "tema_principal": "Validación y Control de Calidad",
+        "herramientas": ["ChatGPT", "Claude"],
+        "entregable_practico": "Informe de validación de coherencia de un documento."
+    },
+    {
+        "sesion": "4",
+        "dia": "Lunes (Semana 2)",
+        "tema_principal": "Creación de Índices y Referencias Cruzadas",
+        "herramientas": ["ChatGPT"],
+        "entregable_practico": "Índice temático y mapa de conocimiento automatizado."
+    },
+    {
+        "sesion": "5",
+        "dia": "Miércoles (Semana 2)",
+        "tema_principal": "Actualización y Mantenimiento Continuo",
+        "herramientas": ["Zapier", "Make"],
+        "entregable_practico": "Sistema de alerta para nueva documentación."
+    },
+    {
+        "sesion": "6",
+        "dia": "Viernes (Semana 2)",
+        "tema_principal": "Distribución y Acceso Inteligente",
+        "herramientas": ["Voiceflow", "Botpress"],
+        "entregable_practico": "Chatbot especializado para consulta de documentación."
+    }
+  ],
+  "detailed_program": [
+    {
+      "week": 1,
+      "title": "ORGANIZACIÓN Y EXTRACCIÓN",
+      "sessions": [
+        {
+          "session_id": "1",
+          "title": "Organización Inteligente de Documentación",
+          "objectives": [
+            "Utilizar IA para clasificar automáticamente documentos técnicos.",
+            "Crear sistemas de etiquetado y categorización inteligente.",
+            "Establecer una biblioteca digital organizada."
+          ],
+          "deliverables": [
+            "Un sistema de carpetas y etiquetas generado por IA.",
+            "Script para la clasificación automática de nuevos documentos."
+          ]
+        },
+        {
+          "session_id": "2",
+          "title": "Análisis y Extracción de Información Clave",
+          "objectives": [
+            "Identificar automáticamente los conceptos principales en tesinas y papers.",
+            "Extraer metodologías y resultados relevantes de forma estructurada.",
+            "Crear resúmenes ejecutivos técnicos para una rápida revisión."
+          ],
+          "deliverables": [
+            "Tabla con los conceptos clave de 5 documentos.",
+            "Resúmenes ejecutivos de 3 documentos largos."
+          ]
+        },
+        {
+          "session_id": "3",
+          "title": "Validación y Control de Calidad",
+          "objectives": [
+            "Verificar la coherencia técnica de un documento con IA.",
+            "Detectar inconsistencias en la terminología y los datos.",
+            "Validar la correcta citación de referencias y fuentes."
+          ],
+          "deliverables": [
+            "Informe de inconsistencias de un documento técnico.",
+            "Lista de referencias validadas."
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": "ACCESO Y MANTENIMIENTO",
+      "sessions": [
+        {
+          "session_id": "4",
+          "title": "Creación de Índices y Referencias Cruzadas",
+          "objectives": [
+            "Generar automáticamente índices temáticos y de palabras clave.",
+            "Vincular de forma inteligente documentos relacionados entre sí.",
+            "Crear mapas de conocimiento técnico para la exploración visual."
+          ],
+          "deliverables": [
+            "Índice temático de la biblioteca digital.",
+            "Grafo de conocimiento de los documentos."
+          ]
+        },
+        {
+          "session_id": "5",
+          "title": "Actualización y Mantenimiento Continuo",
+          "objectives": [
+            "Crear sistemas de alerta para nueva documentación relevante.",
+            "Actualizar automáticamente las bases de conocimiento.",
+            "Integrar la biblioteca con fuentes académicas y técnicas externas."
+          ],
+          "deliverables": [
+            "Alerta por email de nuevos papers en un área de interés.",
+            "Proceso de actualización de la base de conocimiento."
+          ]
+        },
+        {
+          "session_id": "6",
+          "title": "Distribución y Acceso Inteligente",
+          "objectives": [
+            "Implementar sistemas de recomendación de documentos.",
+            "Desarrollar chatbots especializados para la consulta de la documentación.",
+            "Crear portales de conocimiento accesibles para el equipo."
+          ],
+          "deliverables": [
+            "Un chatbot que responde preguntas sobre la documentación.",
+            "Diseño de un portal de conocimiento."
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "continuous": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Entregables semanales", "value": "40%" },
+        { "name": "Participación en talleres", "value": "10%" }
+      ]
+    },
+    "final": {
+      "percentage": "50%",
+      "criteria": [
+        { "name": "Calidad del Sistema de Gestión Documental", "value": "40%" },
+        { "name": "Presentación final del chatbot", "value": "10%" }
+      ]
+    }
+  },
+  "resources": {
+    "platforms": [
+      "ChatGPT / Claude (con capacidades de análisis de documentos)",
+      "Plataformas de creación de chatbots (e.g., Voiceflow, Botpress)"
+    ]
+  },
+  "participant_profile": {
+    "requirements": [
+      "Experiencia en manejo de documentación técnica.",
+      "Conocimientos de Prompt Engineering."
+    ],
+    "recommended": [
+      "Bibliotecólogos, gestores de conocimiento, ingenieros de I+D."
+    ],
+    "not_for": [
+      "Personas sin experiencia en gestión documental."
+    ]
+  }
+}
